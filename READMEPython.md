@@ -13,11 +13,11 @@ Hasil : Buku berhasil ditambahkan.
 Keterangan : Testing pengambilan semua buku    
 Hasil : Data semua buku berhasil diambil.  
 
-3. Method : test_remove_existing_book()  
+3. Method : test_remove_existing_book()    
 Keterangan : Testing menghapus buku yang ada  
 Hasil : Buku dengan judul tertentu berhasil terhapus.  
 
-4. Method : test_remove_non_existing_book()
+4. Method : test_remove_non_existing_book()  
 Keterangan : Testing menghapus buku yang tidak ada.  
 Hasil : Tidak ada buku yang terhapus.  
 
